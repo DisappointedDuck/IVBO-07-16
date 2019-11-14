@@ -1,6 +1,3 @@
-# Microsoft Windows [Version 6.1.7601]
-(c) Корпорация Майкрософт (Microsoft Corp.), 2009. Все права защищены.
-
 C:\Users\Прогакокос>help set
 Вывод, задание и удаление переменных среды cmd.exe.
 
