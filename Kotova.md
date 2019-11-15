@@ -1,7 +1,10 @@
 
 
-# TASKLIST [/S <система> [/U <имя пользователя> [/P [<пароль>]]]]
-         [/M [<модуль>] | /SVC | /V] [/FI <фильтр>] [/FO <формат>] [/NH]
+# TASKLIST 
+
+``` [/S <система> [/U <имя пользователя> [/P [<пароль>]]]] ```
+
+``` [/M [<модуль>] | /SVC | /V] [/FI <фильтр>] [/FO <формат>] [/NH] ```
 
 
 
@@ -64,13 +67,13 @@
 
 Примеры:
 
-    TASKLIST
-    TASKLIST /M
-    TASKLIST /V /FO CSV
-    TASKLIST /SVC /FO LIST
-    TASKLIST /M wbem*
-    TASKLIST /S <система> /FO LIST
-    TASKLIST /S <система> /U <домен>\<пользователь> /FO CSV /NH
-    TASKLIST /S <система> /U <пользователь> /P <пароль> /FO TABLE /NH
-    TASKLIST /FI "USERNAME ne NT AUTHORITY\SYSTEM" /FI "STATUS eq running"
+ *    ```  TASKLIST ``` 
+ *    ```  TASKLIST  /M ```
+ *    ```  TASKLIST  /V /FO CSV ```
+ *    ```  TASKLIST  /SVC /FO LIST ```
+ *    ```   TASKLIST  /M wbem* ```
+ *    ``` TASKLIST   /S <система> /FO LIST ```
+ *    ``` TASKLIST   /S <система> /U <домен>\<пользователь> /FO CSV /NH ```
+ *    ``` TASKLIST   /S <система> /U <пользователь> /P <пароль> /FO TABLE /NH ```
+ *    ```  TASKLIST  /FI "USERNAME ne NT AUTHORITY\SYSTEM" /FI "STATUS eq running" ```
 
