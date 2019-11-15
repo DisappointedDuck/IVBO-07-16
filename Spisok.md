@@ -2,7 +2,7 @@
 ###### Группа ИВБО 07-16
 
 Как только вы сделали документацию, выделите себя жирным и вставьте ссылку на оформленный в Markdown документ.
-Пример: 13. **Умнов Андрей** - **[Systeminfo](github.com/repository/SystemInfo.md)**
+Пример: 13. **Умнов Андрей** - **[Systeminfo](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/SystemInfo.md)**
 
 1. Гордеев Сергей - **[FOR](Адрес утилиты)**
 2. Григорьев Иван -  **[FIND](Адрес утилиты)**
@@ -16,7 +16,7 @@
 10. Самойлов Александр - **[PATHPING](Адрес утилиты)**
 11. Саукин Иван - **[CALL](Адрес утилиты)**
 12. Тимошенко Елена - **[IPCONFIG](Адрес утилиты)**
-13. Умнов Андрей - **[SYSTEMINFO](github.com/repository/SystemInfo.md)**
+13. **Умнов Андрей** - **[SYSTEMINFO](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/SystemInfo.md)**
 14. Хириев Расул - **[IF](Адрес утилиты)**
 15. Брайловский Андрей - **[DOSKEY](Адрес утилиты)**
 
