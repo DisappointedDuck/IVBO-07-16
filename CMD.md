@@ -64,7 +64,7 @@ CMD [/A | /U] [/Q] [/D] [/E:ON | /E:OFF] [/F:ON | /F:OFF] [/V:ON | /V:OFF]
 
     HKEY_LOCAL_MACHINE\Software\Microsoft\Command Processor\AutoRun
 
-        и/или
+    и/или
 
     HKEY_CURRENT_USER\Software\Microsoft\Command Processor\AutoRun
 
@@ -80,7 +80,7 @@ CMD [/A | /U] [/Q] [/D] [/E:ON | /E:OFF] [/F:ON | /F:OFF] [/V:ON | /V:OFF]
    ```
    HKEY_LOCAL_MACHINE\Software\Microsoft\Command Processor\EnableExtensions
 
-        и/или
+   и/или
 
    HKEY_CURRENT_USER\Software\Microsoft\Command Processor\EnableExtensions
 ```
