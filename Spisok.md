@@ -13,7 +13,7 @@
 7. **Омельченко Алексей** - **[ICALCS](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/Омельченко.md)**
 8. **Пехтерев Илья** - **[TRACERT](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/Tracert.md)**
 9. **Попов Кирилл** - **[CMD](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/CMD.md)**
-10. Самойлов Александр - **[PATHPING](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/Pathping.md)**
+10. **Самойлов Александр** - **[PATHPING](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/Pathping.md)**
 11. **Саукин Иван** - **[CALL](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/Call.md)**
 12. Тимошенко Елена - **[IPCONFIG](Адрес утилиты)**
 13. **Умнов Андрей** - **[SYSTEMINFO](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/SystemInfo.md)**
