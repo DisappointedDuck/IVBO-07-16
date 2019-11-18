@@ -15,7 +15,7 @@
 9. **Попов Кирилл** - **[CMD](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/CMD.md)**
 10. **Самойлов Александр** - **[PATHPING](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/Pathping.md)**
 11. **Саукин Иван** - **[CALL](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/Call.md)**
-12. Тимошенко Елена - **[IPCONFIG](Адрес утилиты)**
+12. Тимошенко Елена - **[IPCONFIG](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/IPCONFIG.md)**
 13. **Умнов Андрей** - **[SYSTEMINFO](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/SystemInfo.md)**
 14. Хириев Расул - **[IF](Адрес утилиты)**
 15. Брайловский Андрей - **[DOSKEY](Адрес утилиты)** 
