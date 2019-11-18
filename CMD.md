@@ -58,13 +58,13 @@ CMD [/A | /U] [/Q] [/D] [/E:ON | /E:OFF] [/F:ON | /F:OFF] [/V:ON | /V:OFF]
 
 2.  В противном случае, проверяется первый символ, и если он является        символом кавычек, то он удаляется, также удаляется последний символ кавычек командной строке, а весь текст после этого последнего символа кавычек сохраняется.
 
-Если ключ `/D`  НЕ УКАЗАН в командной строке, то при запуске `CMD.EXE`
+Если ключ `/D` НЕ УКАЗАН в командной строке, то при запуске `CMD.EXE`
 выполняется проверка значений переменных `REG_SZ` или `REG_EXPAND_SZ`
 для следующих разделов системного реестра:
 
     HKEY_LOCAL_MACHINE\Software\Microsoft\Command Processor\AutoRun
 
-        и/или
+    и/или
 
     HKEY_CURRENT_USER\Software\Microsoft\Command Processor\AutoRun
 
@@ -80,7 +80,7 @@ CMD [/A | /U] [/Q] [/D] [/E:ON | /E:OFF] [/F:ON | /F:OFF] [/V:ON | /V:OFF]
    ```
    HKEY_LOCAL_MACHINE\Software\Microsoft\Command Processor\EnableExtensions
 
-        и/или
+   и/или
 
    HKEY_CURRENT_USER\Software\Microsoft\Command Processor\EnableExtensions
 ```
