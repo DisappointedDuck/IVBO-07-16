@@ -18,7 +18,7 @@
 12. Тимошенко Елена - **[IPCONFIG](Адрес утилиты)**
 13. **Умнов Андрей** - **[SYSTEMINFO](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/SystemInfo.md)**
 14. Хириев Расул - **[IF](Адрес утилиты)**
-15. Брайловский Андрей - **[DOSKEY](Адрес утилиты)**
+15. Брайловский Андрей - **[DOSKEY](Адрес утилиты)** 
 
 Полезные ссылки:
 * [Git для Windows](https://github.com/git-for-windows/git/releases/download/v2.24.0.windows.1/Git-2.24.0-32-bit.exe)
