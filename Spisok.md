@@ -4,7 +4,7 @@
 Как только вы сделали документацию, выделите себя жирным и вставьте ссылку на оформленный в Markdown документ.
 Пример: 13. **Умнов Андрей** - **[Systeminfo](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/SystemInfo.md)**
 
-1. **Гордеев Сергей** - **[FOR](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/Gordeev.md)**
+1. **Гордеев Сергей** - **[FOR](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/FOR.md)**
 2. Григорьев Иван -  **[FIND](Адрес утилиты)**
 3. **Данилин Александр** - **[SET](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/Danilin_aLexaandr.md)** 
 4. **Евсеев Михаил** - **[CALCS](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/Cacls.md)**
