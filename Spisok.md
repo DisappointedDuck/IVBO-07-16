@@ -8,7 +8,7 @@
 2. Григорьев Иван -  **[FIND](Адрес утилиты)**
 3. **Данилин Александр** - **[SET](https://github.com/DisappointedDuck/IVBO-07-16/blob/Alexandr_Danilin/SET.md)** 
 4. **Евсеев Михаил** - **[CALCS](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/Cacls.md)**
-5. Елисеев Дамир - **[FINDSTR](Адрес утилиты)**
+5. Елисеев Дамир - **[FINDSTR](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/Findstr.md)**
 6. **Котова Наталья** - **[TASKLIST](https://github.com/DisappointedDuck/IVBO-07-16/blob/Kotova_Natasha/Kotova.md)**
 7. **Омельченко Алексей** - **[ICALCS](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/Icacls.md)**
 8. **Пехтерев Илья** - **[TRACERT](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/Tracert.md)**
