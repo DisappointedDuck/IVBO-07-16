@@ -5,7 +5,7 @@
 Пример: 13. **Умнов Андрей** - **[Systeminfo](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/SystemInfo.md)**
 
 1. **Гордеев Сергей** - **[FOR](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/FOR.md)**
-2. Григорьев Иван -  **[FIND](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/FIND.md)**
+2. **Григорьев Иван** -  **[FIND](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/FIND.md)**
 3. **Данилин Александр** - **[SET](https://github.com/DisappointedDuck/IVBO-07-16/blob/Alexandr_Danilin/SET.md)** 
 4. **Евсеев Михаил** - **[CALCS](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/Cacls.md)**
 5. **Елисеев Дамир** - **[FINDSTR](https://github.com/DisappointedDuck/IVBO-07-16/blob/master/Findstr.md)**
